@@ -97,7 +97,7 @@ Advance_Mathematics_Assignment/
 │── Advance_Mathematics.ipynb  
 │── README.md  
 │── plots/  
-│   ├── graph.png  
+│     ├── graph.png  
  
 
 ---
