@@ -5,7 +5,7 @@
 
 ## 1. Methodology
 
-#### Data Collection → Data Pre-Processing → Non-Linear Transformation → Probability Density Function Learning → Parameter Estimation → Result Analysis
+### Data Collection → Data Pre-Processing → Non-Linear Transformation → Probability Density Function Learning → Parameter Estimation → Result Analysis
 
 ---
 
