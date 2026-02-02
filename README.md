@@ -86,4 +86,3 @@ The parameters λ, μ, and c are estimated using numerical optimization based on
 
 This assignment demonstrates the application of roll-number-parameterized non-linear transformations combined with probabilistic modeling for learning probability density functions. The approach effectively models real-world air quality data and highlights the importance of parameter estimation in statistical learning.
 
----
