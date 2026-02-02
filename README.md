@@ -54,16 +54,19 @@ The parameters λ, μ, and c are estimated using numerical optimization based on
 
 ---
 
-## 5. Result Graphs
-![Learned PDF](plots/graph.png)
-
----
-
 ## 6. Result Analysis
 
-- The non-linear transformation introduces smooth sinusoidal variation in the data.
-- The transformed values follow a Gaussian-like distribution.
-- The learned PDF closely fits the empirical distribution of z.
+Using the transformed NO₂ data, the estimated parameters of the probability density function are:
+
+- Spread parameter (λ) = 0.00242798  
+- Mean (μ) = 20.07453836  
+- Normalization constant (c) = 0.02812794   
+
+These parameters define the learned probability density function for the transformed NO₂ data and are used to generate the fitted distribution shown in the result graph.
+---
+
+## 5. Result Graphs
+![Learned PDF](plots/graph.png)
 
 ---
 
@@ -78,7 +81,6 @@ The parameters λ, μ, and c are estimated using numerical optimization based on
   - SciPy
 
 ---
-
 
 ## 8. Conclusion
 
