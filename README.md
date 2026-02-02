@@ -63,6 +63,7 @@ Using the transformed NO₂ data, the estimated parameters of the probability de
 - Normalization constant (c) = 0.02812794   
 
 These parameters define the learned probability density function for the transformed NO₂ data and are used to generate the fitted distribution shown in the result graph.
+
 ---
 
 ## 5. Result Graphs
